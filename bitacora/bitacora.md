@@ -6,4 +6,4 @@ permalink: /bitacora/
 
 # Bitácora del proyecto
 
-- [Bitácora inicial](bitácora/2025-08-11-bitacora-iniciar.md)
+- [Bitácora inicial](bitacora/2025-08-11-bitacora-inicial.md)
