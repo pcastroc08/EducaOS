@@ -1,10 +1,6 @@
 ---
-layout: default
-title: EducaOS
+layout: home
+title: Bitácora de EducaOS
 ---
 
-# Bienvenido a EducaOS
-
-Este es el sitio oficial de la distribución GNU/Linux para centros educativos.
-
-[Ir a la Bitácora](bitacora/)
+Bienvenido al blog de desarrollo de EducaOS. Aquí iré publicando los avances día a día.
