@@ -1,6 +1,7 @@
 ## EducaOS
 
 Sistema operativo educativo basado en Debian para centros escolares
+
 Incluye
 
 + Base en debian 12 (En la que se basan muchas distribuciones de linux, como Ubuntu)
